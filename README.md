@@ -1,7 +1,7 @@
 # Ex.No :2
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
-## Register Number: 212224220036
-## Date: 13|02|26
+## Register Number: 212224230218
+## Date: 13/02/26
 ## AIM
  To write a lex program to implement lexical analyzer to recognize a few patterns.
 ## ALGORITHM
@@ -83,10 +83,10 @@ return 0;
 }
 ```
 ## INPUT:
-<img width="339" height="180" alt="image" src="https://github.com/user-attachments/assets/01cc57b5-e730-46b6-90a2-c38a7d7814c9" />
+<img width="426" height="223" alt="Screenshot 2026-02-18 011156" src="https://github.com/user-attachments/assets/fd590f05-489c-4d3e-ade4-b0d75c1a879b" />
 
 ## OUTPUT:
-<img width="939" height="982" alt="image" src="https://github.com/user-attachments/assets/df3bb31b-c181-4e16-8053-872b57370829" />
+![WhatsApp Image 2026-02-14 at 11 02 53 AM](https://github.com/user-attachments/assets/620fc746-d35d-467c-bfd4-26a48a1dc859)
 
 ## RESULT:
  The lexical analyzer is implemented using lex and the output is verified.
